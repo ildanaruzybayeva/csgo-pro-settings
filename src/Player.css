@@ -1,0 +1,17 @@
+.player {
+  display: flex-column;
+  background-color: #eceff1;
+  width: 250px;
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+}
+
+h1 {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+  border-radius: 5%;
+}
