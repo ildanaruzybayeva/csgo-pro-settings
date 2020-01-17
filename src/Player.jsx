@@ -16,7 +16,18 @@ export class Player extends Component {
         <p>DPI: {this.props.dpi}</p>
         <p>Sensitivity: {this.props.sensitivity}</p>
         <p>HLTV Rating: {this.props.rating}</p>
-        <button>Full Settings</button>
+
+        <div class='button_cont' align='center'>
+          <a
+            class='example_c'
+            href='add-website-here'
+            target='_blank'
+            rel='nofollow noopener'
+          >
+            Full Settings
+          </a>
+        </div>
+
         <div className='back'></div>
       </div>
     );
