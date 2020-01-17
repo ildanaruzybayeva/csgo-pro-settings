@@ -6,7 +6,8 @@ export const pros = [
     sensitivity: 0,
     rating: 0,
     number: 1,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLQVp7OXJYzRD4si02tmIlaOkNemIxDwJv50jjuiQ94mjjVG3rhBpMGD2cIaSIwE6NQ7Z-wKggbC4nwIkFg8/512fx384f'
   },
   {
     name: 'Cooming soon',
@@ -15,7 +16,8 @@ export const pros = [
     sensitivity: 0,
     rating: 0,
     number: 2,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WpLgJ07OXJYzRD4siw2oaIlKHyMbqJlT9SsJQiie_DrI2hiVW2qBY6YGjwcoKTJgdvYlmD81OggbC4YwmkZXc/512fx384f'
   },
   {
     name: 'Cooming soon',
@@ -24,7 +26,8 @@ export const pros = [
     rating: 0,
     sensitivity: 0,
     number: 3,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIjFz_OlZbqJxD4C68cp2u-Z9Ijw0AXmrUZoZm2iLI-cc1M7MAmC_FntwvCv28EpZvYmDw/'
   },
   {
     name: 'ELIGE',

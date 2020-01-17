@@ -6,20 +6,12 @@ export default function Header() {
     <div>
       <header>
         <nav>
+          <img
+            src='https://i.redd.it/1s0j5e4fhws01.png'
+            className='logo'
+            alt='csgo-icon'
+          />
           <h1>CS:GO PRO SETTINGS OF HLTV TOP 20 PLAYERS (2019)</h1>
-
-          <ul>
-            <li>
-              <a data-page='home' href='#'></a>
-            </li>
-            <li>
-              <a data-page='contact' href='#'>
-                {' '}
-              </a>
-            </li>
-
-            <div class='bubble'></div>
-          </ul>
         </nav>
       </header>
     </div>
