@@ -7,7 +7,6 @@ export class Players extends Component {
   render() {
     return (
       <div>
-        <h1>CS:GO PRO SETTINGS OF TOP 20 PLAYERS 2019</h1>
         <div className='prosList'>
           {pros.map(p => {
             return (
