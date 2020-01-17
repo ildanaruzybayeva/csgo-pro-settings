@@ -27,31 +27,34 @@ export const pros = [
     img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
   },
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    rating: 0,
-    sensitivity: 0,
+    name: 'ELIGE',
+    team: 'Liquid',
+    dpi: 1600,
+    rating: 1.18,
+    sensitivity: 0.74,
     number: 4,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/8738.png'
   },
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    rating: 0,
-    sensitivity: 0,
+    name: 'MAGISK ',
+    team: 'Astralis',
+    dpi: 800,
+    rating: 1.19,
+    sensitivity: 1,
     number: 5,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/9032.png'
   },
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    rating: 0,
-    sensitivity: 0,
+    name: 'ELECTRONIC',
+    team: "NA'V",
+    dpi: 400,
+    rating: 1.23,
+    sensitivity: 2.2,
     number: 6,
-    img: 'https://static.hltv.org/images/playerprofile/blankplayer.svg'
+    img:
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/8918.png'
   },
   {
     name: 'NAF',
