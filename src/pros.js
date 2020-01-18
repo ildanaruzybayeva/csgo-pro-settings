@@ -1,33 +1,33 @@
 export const pros = [
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    sensitivity: 0,
-    rating: 0,
+    name: 'ZYWOO',
+    team: 'Vitality',
+    dpi: 400,
+    sensitivity: 2.0,
+    rating: 1.37,
     number: 1,
     img:
-      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLQVp7OXJYzRD4si02tmIlaOkNemIxDwJv50jjuiQ94mjjVG3rhBpMGD2cIaSIwE6NQ7Z-wKggbC4nwIkFg8/512fx384f'
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/11893.png'
   },
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    sensitivity: 0,
-    rating: 0,
+    name: 'S1MPLE',
+    team: "NA'VI",
+    dpi: 400,
+    sensitivity: 3.09,
+    rating: 1.28,
     number: 2,
     img:
-      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WpLgJ07OXJYzRD4siw2oaIlKHyMbqJlT9SsJQiie_DrI2hiVW2qBY6YGjwcoKTJgdvYlmD81OggbC4YwmkZXc/512fx384f'
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/7998.png'
   },
   {
-    name: 'Cooming soon',
-    team: 'N/A',
-    dpi: 0,
-    rating: 0,
-    sensitivity: 0,
+    name: 'DEVICE',
+    team: 'Astralis',
+    dpi: 400,
+    rating: 1.22,
+    sensitivity: 1.9,
     number: 3,
     img:
-      'https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIjFz_OlZbqJxD4C68cp2u-Z9Ijw0AXmrUZoZm2iLI-cc1M7MAmC_FntwvCv28EpZvYmDw/'
+      'https://static.hltv.org//images/playerprofile/bodyshot/compressed/7592.png'
   },
   {
     name: 'ELIGE',
@@ -51,7 +51,7 @@ export const pros = [
   },
   {
     name: 'ELECTRONIC',
-    team: "NA'V",
+    team: "NA'VI",
     dpi: 400,
     rating: 1.23,
     sensitivity: 2.2,
